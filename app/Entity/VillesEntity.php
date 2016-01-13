@@ -1,0 +1,10 @@
+<?php
+
+namespace app\Entity;
+
+use core\Entity\Entity;
+
+class VillesEntity extends Entity{
+
+	
+}
